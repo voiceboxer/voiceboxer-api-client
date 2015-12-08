@@ -1,0 +1,16 @@
+{
+  "name": "voiceboxer-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookies-js": "^1.2.2",
+    "voiceboxer-api-js-client": "^1.11.0",
+    "xtend": "^4.0.1"
+  }
+}
