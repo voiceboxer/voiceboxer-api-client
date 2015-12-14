@@ -6,7 +6,7 @@ An easy-to-use client for the https://github.com/voiceboxer/voiceboxer-api wrapp
 
 # Usage
 
-Initiate the module with a config for the api endpoint and client_id, the air endpoint and cookies-js defaults for storing a session cookie.
+Initiate the module with a config for the api endpoint and client_id, the air endpoint and optional cookies-js defaults for storing a session cookie.
 
 ```javascript
 var config = {
