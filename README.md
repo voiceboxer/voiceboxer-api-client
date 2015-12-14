@@ -2,7 +2,7 @@
 
 An easy-to-use client for the https://github.com/voiceboxer/voiceboxer-api wrapper.
 
-  npm install voiceboxer-api-client
+	npm install voiceboxer-api-client
 
 # Usage
 
