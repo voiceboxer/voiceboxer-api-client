@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "cookies-js": "^1.2.2",
+    "debug": "^2.2.0",
     "voiceboxer-api-js-client": "^1.11.0",
     "xtend": "^4.0.1"
   }
