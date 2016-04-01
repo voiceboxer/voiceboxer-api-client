@@ -17,7 +17,7 @@
   "dependencies": {
     "cookies-js": "^1.2.2",
     "debug": "^2.2.0",
-    "voiceboxer-api": "^1.14.0",
+    "voiceboxer-api": "^2.0.0",
     "xtend": "^4.0.1"
   }
 }
