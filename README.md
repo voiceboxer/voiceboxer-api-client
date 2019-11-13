@@ -31,4 +31,8 @@ voiceboxer.login({ email: 'your@email.com', password: 'password' }, function(err
 voiceboxer.on('login', function(user) {
   console.log(user);
 });
+
+voiceboxer.loginWithToken(token, function() {
+    console.log('logged');
+ });
 ```
